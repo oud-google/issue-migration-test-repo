@@ -1,3 +1,3 @@
 codebook
 ========
-Gradle-ized
+This is a complete Gradle-based project example.
